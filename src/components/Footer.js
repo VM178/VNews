@@ -54,7 +54,7 @@ export class Footer extends Component {
           >
             © 2020 Copyright:
             <a className="text-white" href="https://mdbootstrap.com/">
-              Vaibhav Kokitkar
+              Vedant Madhe
             </a>
           </div>
         </footer>
